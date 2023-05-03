@@ -1,0 +1,69 @@
+import img1 from "../img/img1.jpg"
+import img2 from "../img/img2.jpg"
+import img3 from "../img/img3.png"
+import img4 from "../img/img4.png"
+const Data={
+    cardData:[
+        {
+            id:1,
+            img:img1,
+            title:"T-shirt",
+            desc:"$20"
+        },
+        {
+            id:2,
+            img:img2,
+            title:"Jacket",
+            desc:"$100"
+        },
+        {
+            id:3,
+            img:img3,
+            title:"Pizza",
+            desc:"$30"
+        },
+        {
+            id:4,
+            img:img4,
+            title:"Coffee",
+            desc:"$43.5"
+        },
+        {
+            id:5,
+            img:img2,
+            title:"Jacket",
+            desc:"$100"
+        },
+        {
+            id:6,
+            img:img4,
+            title:"Coffee",
+            desc:"$43.5"
+        },
+        {
+            id:7,
+            img:img1,
+            title:"T-shirt",
+            desc:"$20"
+        },
+        {
+            id:8,
+            img:img2,
+            title:"Jacket",
+            desc:"$100"
+        },
+        {
+            id:9,
+            img:img3,
+            title:"Pizza",
+            desc:"$30"
+        },
+        {
+            id:10,
+            img:img4,
+            title:"Coffee",
+            desc:"$43.5"
+        },
+    ]
+}
+export default Data
